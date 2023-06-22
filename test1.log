@@ -1,0 +1,6 @@
+2023-06-20 01:30:30,518 This is my logging
+2023-06-20 01:30:30,518 This is my error msg
+2023-06-20 01:30:30,518 This is my critical
+2023-06-20 01:34:18,433 root INFO This is my logging
+2023-06-20 01:34:18,433 root ERROR This is my error msg
+2023-06-20 01:34:18,433 root CRITICAL This is my critical
